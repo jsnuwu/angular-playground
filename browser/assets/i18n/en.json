@@ -1,0 +1,12 @@
+{
+  "headline": {
+    "titel": "Welcome",
+    "underText": "hello"
+  },
+  "underUnderText": "bye",
+  "time": "Night",
+  "button": {
+    "time": "Night"
+  },
+  "back": "Back to startpage"
+}
